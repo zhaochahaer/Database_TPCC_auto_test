@@ -1,0 +1,5 @@
+&emsp;a) CPU型号: Intel(R) Xeon(R) CPU E5-2630 v4 @ 2.20GHz<br>
+&emsp;b) CPU数量：48<br>
+&emsp;c) 内存: 256G<br>
+&emsp;d) 网络: Speed: 10000Mb/s 万兆网卡<br>
+&emsp;e) 磁盘: 6*1.8T sata机械盘*raid0:/data <br>
